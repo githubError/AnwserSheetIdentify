@@ -22,6 +22,8 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 
+AnwserSheetIdentify/opencv2.framework
+
 ## Obj-C/Swift specific
 *.hmap
 *.ipa

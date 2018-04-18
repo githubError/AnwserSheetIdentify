@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  AnwserSheetIdentify
+//
+//  Created by JWTHiOS02 on 2018/4/18.
+//  Copyright © 2018年 cuipengfei. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __cplusplus
+
+#import <opencv2/opencv.hpp>
+#import <opencv2/imgcodecs/ios.h>
+
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif
+
+#endif /* PrefixHeader_pch */
